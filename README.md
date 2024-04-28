@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction
- 
+ ![Uploading image.png…]()
+
 Titanic-Survival-Prediction
 CodTech IT Solutions Internship – Data Science Task Documentation : Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic Survived or not.
 Intern Information
