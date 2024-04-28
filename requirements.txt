@@ -1,0 +1,5 @@
+Requirement:
+1.google colabs
+2.kaggle for dataset
+3.python libraries for data analysis
+4.github
