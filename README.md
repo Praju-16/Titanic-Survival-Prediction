@@ -1,11 +1,15 @@
 # Titanic-Survival-Prediction
- ![Uploading image.png…]()
+
 
 Titanic-Survival-Prediction
 CodTech IT Solutions Internship – Data Science Task Documentation : Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic Survived or not.
 Intern Information
+
+
 Name :- Prajakta Satish Pawars
 ID :- COD6991
+
+
 Overview
 Predicting survival on the Titanic is a classic machine learning problem often used for educational purposes and as an introduction to predictive modeling techniques. The goal is to predict whether a passenger survived or not based on various features such as age, gender, ticket class, fare, and so on.
 Dataset Description
