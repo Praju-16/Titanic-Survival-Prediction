@@ -1,6 +1,5 @@
 # Titanic-Survival-Prediction
 
-![Uploading image.png…]()
 
 Titanic-Survival-Prediction
 
