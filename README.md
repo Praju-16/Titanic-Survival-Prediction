@@ -1,4 +1,5 @@
 # Titanic-Survival-Prediction
+![image](https://github.com/Praju-16/Titanic-Survival-Prediction/assets/141834374/07bc49cc-6b78-40dc-8732-56ef892fca1e)
 
 
 Titanic-Survival-Prediction
